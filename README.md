@@ -3,7 +3,7 @@
 ## Bienvenue sur mon profil GitHub !
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/Goldorakor/Goldorakor/blob/main/img/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/Goldorakor/"><img height="30" src="https://github.com/Goldorakor/Goldorakor/blob/main/img/linkedin.png?raw=true"></a>
 </p>
 
 Salut à tous,
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-N'hésitez pas à m'envoyer un [email](mailto:michael123456222444666@gmail.com) ! :-)
-À très bientôt !
-Michaël
+<p>N'hésitez pas à m'envoyer un [email](mailto:michael123456222444666@gmail.com) ! :-)</p>
+<p></p>À très bientôt !</p>
+<p></p>Michaël</p>
