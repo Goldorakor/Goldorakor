@@ -1,9 +1,6 @@
 ## Welcome to my GitHub profile !
 ## Bienvenue sur mon profil GitHub !
 
-
-N'hésitez pas à m'envoyer un [email](mailto:michael123456222444666@gmail.com) ! :-)
-
 <!--
 **Goldorakor/Goldorakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Cover](https://github.com/Goldorakor/Goldorakor/blob/main/img/boite_oiseaux.jpg)
+
+N'hésitez pas à m'envoyer un [email](mailto:michael123456222444666@gmail.com) ! :-)
