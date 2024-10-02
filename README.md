@@ -3,7 +3,7 @@
 ## Bienvenue sur mon profil GitHub !
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/Goldorakor/"><img height="30" src="https://github.com/Goldorakor/Goldorakor/blob/main/img/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/michael-heid-846663329/"><img height="30" src="https://github.com/Goldorakor/Goldorakor/blob/main/img/linkedin.png?raw=true"></a>
 </p>
 
 <p>Salut à tous,</p>
