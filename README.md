@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>N'hésitez pas à m'envoyer un [email](mailto:michael123456222444666@gmail.com) ! :-)</p>
+N'hésitez pas à m'envoyer un [email](mailto:michael123456222444666@gmail.com) ! :-)
 <p></p>À très bientôt !</p>
 <p></p>Michaël</p>
