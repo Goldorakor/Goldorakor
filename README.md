@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/Goldorakor/"><img height="30" src="https://github.com/Goldorakor/Goldorakor/blob/main/img/linkedin.png?raw=true"></a>
 </p>
 
-Salut à tous,
+<p>Salut à tous,</p>
 
-je suis stagiaire chez Élan Formation pour apprendre le développement web.
-Dans quelques mois, je serai peut-être la personne que vous contacterez pour donner vie à votre site web ...
-Mais en attendant, il faut apprendre à coder et pusher du contenu sur GitHub pour recevoir les conseils des formateurs !
+<p>je suis stagiaire chez Élan Formation pour apprendre le développement web.</p>
+<p>Dans quelques mois, je serai peut-être la personne que vous contacterez pour donner vie à votre site web ...</p>
+<p>Mais en attendant, il faut apprendre à coder et pusher du contenu sur GitHub pour recevoir les conseils des formateurs !</p>
 
 <!--
 **Goldorakor/Goldorakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
