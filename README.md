@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue sur mon profil GitHub ! 👋
 
 <!--
 **Goldorakor/Goldorakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/Goldorakor/Goldorakor/blob/master/img/boite_oiseaux.jpg)
+![Cover](https://github.com/Goldorakor/Goldorakor/blob/main/img/boite_oiseaux.jpg)
