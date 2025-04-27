@@ -9,8 +9,8 @@
 <p>Salut à tous,</p>
 
 <p>je suis stagiaire chez Élan Formation pour apprendre le développement web.</p>
-<p>Dans quelques mois, je serai peut-être la personne que vous contacterez pour donner vie à votre site web ...</p>
-<p>Mais en attendant, il faut apprendre à coder et pusher du contenu sur GitHub pour recevoir les conseils des formateurs !</p>
+<p>Dans quelques jours, je serai peut-être la personne que vous contacterez pour donner vie à votre site web ...</p>
+<p>Mais en attendant, il faut réviser et pusher du contenu sur GitHub pour recevoir les conseils des formateurs !</p>
 
 <!--
 **Goldorakor/Goldorakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
